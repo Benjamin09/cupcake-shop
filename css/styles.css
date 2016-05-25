@@ -1,0 +1,50 @@
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+p.flashy {
+
+}
+
+h1.flashy {
+    text-align: center;
+}
+
+h3.flashy {
+
+}
+
+.description {
+    font-family: cursive, sans-serif;
+}
+
+h2.description {
+    text-align: center;
+}
+
+h3.best {
+    font-family: impact;
+    font-size: 25px;
+}
+
+body {
+    background-color: lightpink;
+}
+
+div.menu {
+    border: solid 20px pink;
+}
+
+img {
+    border: solid white 10px;
+    border-radius: 50%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
